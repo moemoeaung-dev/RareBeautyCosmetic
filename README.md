@@ -112,33 +112,6 @@ The application follows a structured Java desktop application architecture where
 └─────────────────────────────┘
 ```
 
----
-
-## 📂 Project Structure
-
-```text
-RareBeautyCosmetic/
-│
-├── src/
-│   ├── Admin/
-│   ├── Customer/
-│   ├── Main/
-│   └── ...
-│
-├── database/
-│   └── rarebeauty.sql
-│
-├── assets/
-│   └── ...
-│
-├── .gitignore
-├── README.md
-└── ...
-```
-
-> Generated files such as compiled `.class` files and IDE-specific configuration files are excluded from the repository using `.gitignore`.
-
----
 
 ## 🗄️ Database
 
@@ -335,33 +308,6 @@ During the development of this project, the following concepts were applied:
 * Shopping Cart Management
 * Order Processing
 
----
-
-## 📸 Screenshots
-
-Screenshots of the application can be added here to demonstrate the main interfaces.
-
-### Login
-
-*Add login page screenshot here.*
-
-### Customer Dashboard
-
-*Add customer dashboard screenshot here.*
-
-### Product Management
-
-*Add admin product management screenshot here.*
-
-### Shopping Cart
-
-*Add shopping cart screenshot here.*
-
-### Order Management
-
-*Add order management screenshot here.*
-
----
 
 ## 🔮 Future Improvements
 
